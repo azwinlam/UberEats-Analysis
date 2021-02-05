@@ -35,4 +35,14 @@ Due to chinese characters from the restaurants, the file had to be opened with U
 * Menu Prices - summed all the prices and divded by number of menu items to get average price per menu item
 * Dollar Sign Rating - extracted from Food Type column
 
-## EDA
+## EDA (Exploratory Data Analysis)
+
+Below are the highlights from the EDA:
+
+### These are the dollar sign ratings from UberEats
+![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/dollarsignratings.png "Dollar Sign Ratings")
+
+
+### Dollar Sign Ratings versus Average Price
+* Excluding outliers, the Dollar Sign suggestions on UberEats do not definitively separate price ranges. With the exception of $$$$ being significantly pricier than the other 3.![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/Dollarsign_vs_AveragePrice.png "Dollar Sign Ratings vs Average Price")
+
