@@ -1,0 +1,458 @@
+,Merge,Address,Average_price_PANDA,Average_price_UBER,Cuisine_PANDA,Cuisine_UBER,Cuisine_single_PANDA,Cuisine_single_UBER,Delivery_PANDA,Delivery_UBER,Dollar_signs,Exclusivity,Food_type,Name_PANDA,Name_UBER,Promotion,Ratings_PANDA,Ratings_UBER,Reviews_PANDA,Reviews_UBER
+0,pho 5,"17 Tsing Fung Street, G/F, Causeway Bay, Hong Kong Island
+ • 
+More info",37.096774193548384,48.0,"['Vietnamese', 'Salad', 'Limited Offers', 'Dine-in Price', 'Carousel Deals']","['Vietnamese', 'Allergy friendly', 'Family friendly']",Vietnamese,Vietnamese,HK$ 12 delivery fee,14.0,2.0,0,"$$ • Vietnamese
+ • 
+Allergy friendly
+ • 
+Family friendly",pho 5 (tin hau),火五越式牛肉粉專門店 pho 5 (tin hau),50% off,4/5,4.2,804.0,100
+1,subway,"218 Electric Rd, North Point, Hong Kong, SHOP 6, G/F,,
+ • 
+More info",39.48484848484848,44.0,"['Burger', 'Western', 'Salad']","['Fast Food', 'Western', 'Vegan']",Burger,Fast Food,HK$ 12 delivery fee,19.0,2.0,0,"$$ • Fast Food
+ • 
+Western
+ • 
+Vegan",subway (fortress hill),subway (fortress hill),,4.5/5,4.5,605.0,59
+2,jiu fen full,"Universal Commercial House, 4 Shell St, Causeway Bay, Hong Kong, Shop 1-3, G/F,,
+ • 
+More info",31.249180327868853,29.0,"['Taiwanese', 'Tea Time', 'Carousel Deals']","['Taiwanese', 'Family friendly']",Taiwanese,Taiwanese,HK$ 12 delivery fee,19.0,2.0,0,"$$ • Taiwanese
+ • 
+Family friendly",jiu fen full (north point),九份飽 jiu fen full (蜆殼街 shell street),10% off $80,4.4/5,4.5,1035.0,100
+3,europa tea foundry,"22 Yee Wo St, Causeway Bay, Hong Kong, Shop 3, G/F,
+ • 
+More info",43.69230769230769,40.0,"['Drinks', 'Hong Kong']",['Bubble Tea'],Drinks,Bubble Tea,HK$ 20 delivery fee,24.0,1.0,0,$ • Bubble Tea,europa tea foundry (cwb),木衛二鑄茶所 europa tea foundry (銅鑼灣 causeway bay),,4.7/5,4.9,215.0,50
+4,cupfy,"Hysan Place, 500 Hennessy Road, Causeway Bay, Hong Kong, Shop 903A, 9/F,, Hong Kong 0000
+ • 
+More info",32.740540540540536,35.0,"['Drinks', 'Taiwanese', 'Only on foodpanda']","['Bubble Tea', 'Desserts', 'Coffee and tea']",Drinks,Bubble Tea,HK$ 20 delivery fee,19.0,2.0,1,"$$ • Bubble Tea
+ • 
+Desserts
+ • 
+Coffee and tea",cupfy (causeway bay),cupfy 走杯 (銅鑼灣 causeway bay),10% off $200,4.6/5,4.8,23.0,22
+5,cali-mex bar & grill,"Shop 20-21, Aia Tower, 183 Electric Rd, North Point, Hong Kong, G/F,,
+ • 
+More info",116.6178861788618,123.0,"['American', 'Western', 'Mexican', 'Salad', 'Dine-in Price']","['Mexican', 'Healthy', 'Vegetarian', 'Burger', 'Alcohol', 'Wings', 'Seafood', 'Desserts']",American,Mexican,HK$ 12 delivery fee,14.0,1.0,0,"$ • Mexican
+ • 
+Healthy
+ • 
+Vegetarian
+ • 
+Burger
+ • 
+Alcohol
+ • 
+Wings
+ • 
+Seafood
+ • 
+Desserts",cali-mex bar & grill (north point),cali-mex bar & grill (north point),,4.4/5,4.5,1284.0,61
+6,bhc,"535 Jaffe Rd, Shop B03, Basement, Tower 535,, Hong Kong Island
+ • 
+More info",145.44186046511632,139.0,"['Fast Food', 'Korean']",['Korean'],Fast Food,Korean,HK$ 20 delivery fee,,1.0,0,$ • Korean,bhc (causeway bay),bhc (causeway bay),,4.4/5,4.1,190.0,21
+7,hogology,"Caroline Hill Rd, Causeway Bay, Hong Kong, G/F, ,
+ • 
+More info",31.37037037037037,58.0,['Taiwanese'],"['Cantonese', 'Taiwanese']",Taiwanese,Cantonese,HK$ 20 delivery fee,19.0,1.0,0,"$ • Cantonese
+ • 
+Taiwanese",hogology (causeway bay),炊豕店 hogology (銅鑼灣 causeway bay),,4.4/5,4.5,333.0,62
+8,wing's catering,"6 Haven St, So Kon Po, Hong Kong, G/F,
+ • 
+More info",39.0566037735849,36.0,"['Noodles', 'Chinese', 'Carousel Deals']",['Chinese'],Noodles,Chinese,HK$ 20 delivery fee,19.0,1.0,0,$ • Chinese,wing's catering (haven street),榮式燒雞扒 wing's catering (銅鑼灣 causeway bay),10% off $80,4.4/5,4.7,862.0,80
+9,jar-jar-bar by peek-a-poke,"128～138號 Leighton Rd, So Kon Po, Hong Kong, Shop 38, G/F,,
+ • 
+More info",73.5,90.0,"['Western', 'Salad', 'Carousel Deals']",['American'],Western,American,HK$ 20 delivery fee,19.0,1.0,0,$ • American,jar-jar-bar by peek-a-poke,jar-jar-bar by peek-a-poke,10% off $80,4.4/5,4.6,56.0,43
+10,doner kebab,"Fu Lee Loy Shopping Centre, 9-27 King Wah Road, North Point, Shop 11, Hong Kong, Hong Kong 0000
+ • 
+More info",74.4,69.0,"['Middle Eastern', 'Only on foodpanda', 'Dine-in Price', 'Carousel Deals']",['Middle Eastern'],Middle Eastern,Middle Eastern,HK$ 12 delivery fee,14.0,2.0,1,$$ • Middle Eastern,doner kebab,doner kebab,10% off $80,4.2/5,,50.0,
+11,ming ming cart noodle bar,"89 Hennessy Rd, Wan Chai, Hong Kong, G/F, ,
+ • 
+More info",15.152054794520547,34.0,"['Noodles', 'Hong Kong', 'Only on foodpanda', 'Carousel Deals']",['Chinese'],Noodles,Chinese,HK$ 17 delivery fee,24.0,1.0,1,$ • Chinese,ming ming cart noodle bar (north point),明明車仔麵專門店 ming ming cart noodle bar (軒尼詩道89號近修頓球場),10% off $80,4.3/5,4.6,1434.0,100
+12,ming ming cart noodle bar,"290 Hennessy Rd, Wan Chai, Hong Kong, G/F, ,
+ • 
+More info",15.152054794520547,34.0,"['Noodles', 'Hong Kong', 'Only on foodpanda', 'Carousel Deals']",['Chinese'],Noodles,Chinese,HK$ 17 delivery fee,24.0,1.0,1,$ • Chinese,ming ming cart noodle bar (north point),明明車仔麵專門店 ming ming cart noodle bar (軒尼詩道290號近英皇中心),10% off $80,4.3/5,4.6,1434.0,60
+13,harley's by chef nate green,"183 Electric Road, North Point, G/F,, Hong Kong, Hong Kong 0
+ • 
+More info",97.66779661016949,151.0,"['American', 'Dine-in Price', 'Favourites by foodpanda']","['American', 'Alcohol', 'Western', 'Burgers', 'Vegetarian', 'Wine']",American,American,HK$ 12 delivery fee,14.0,1.0,0,"$ • American
+ • 
+Alcohol
+ • 
+Western
+ • 
+Burgers
+ • 
+Vegetarian
+ • 
+Wine",harley's by chef nate green (fortress hill),harley's by chef nate green (north point),20% off $200,4.1/5,4.3,78.0,24
+14,harley's by chef nate green,"31 Wong Nai Chung Rd, Happy Valley, Hong Kong, G/F,,
+ • 
+More info",97.66779661016949,151.0,"['American', 'Dine-in Price', 'Favourites by foodpanda']","['American', 'Alcohol', 'Western', 'Burgers', 'Vegetarian', 'Wine']",American,American,HK$ 12 delivery fee,19.0,1.0,0,"$ • American
+ • 
+Alcohol
+ • 
+Western
+ • 
+Burgers
+ • 
+Vegetarian
+ • 
+Wine",harley's by chef nate green (fortress hill),harley's by chef nate green (happy valley),20% off $200,4.1/5,4.3,78.0,54
+15,prince dragon,"11 Lan Fong Rd, Hong Kong Island
+ • 
+More info",30.224137931034484,25.0,"['Dim Sum', 'Chinese', 'Tea Time']","['Cantonese', 'Family friendly']",Dim Sum,Cantonese,HK$ 20 delivery fee,19.0,1.0,0,"$ • Cantonese
+ • 
+Family friendly",prince dragon (causeway bay),籠太子點心專門店 prince dragon (銅鑼灣 causeway bay),,4.3/5,4.2,641.0,82
+16,yu mai,"Hong Kong, North Point, Electric Rd, 254-280號華海大廈地下k號鋪, Shop K, G/F, Wah Hoi Mansion, ,
+ • 
+More info",33.4,76.0,"['Noodles', 'Hong Kong', 'Tea Time', 'Carousel Deals']",['Cantonese'],Noodles,Cantonese,HK$ 17 delivery fee,19.0,2.0,0,$$ • Cantonese,yu mai (north point),魚米 yu mai (north point),滿$80即享9折,4.3/5,4.0,411.0,16
+17,tristar kitchen,"459 Lockhart Rd, 21/F, The L. Square, Hong Kong Island
+ • 
+More info",58.63888888888889,87.0,"['Drinks', 'Noodles', 'Taiwanese', 'Dine-in Price', 'Tea Time']",['Taiwanese'],Drinks,Taiwanese,HK$ 20 delivery fee,19.0,1.0,0,$ • Taiwanese,tristar kitchen (causeway bay),三星台菜食堂 tristar kitchen (銅鑼灣 causeway bay),,4.4/5,4.5,459.0,39
+18,fûhn,"459 Lockhart Rd, 1/F, The L. Square,, Hong Kong Island
+ • 
+More info",65.02,111.0,"['Noodles', 'Vietnamese']",['Vietnamese'],Noodles,Vietnamese,HK$ 20 delivery fee,14.0,2.0,0,$$ • Vietnamese,fûhn (causeway bay),fûhn,20% off $100,4.3/5,4.1,103.0,15
+19,express bar by lassana,"88 Hing Fat St, G/F,, Hong Kong Island
+ • 
+More info",54.58620689655172,38.0,"['Pasta', 'Western', 'Salad', 'Tea Time']",['Cafe'],Pasta,Cafe,HK$ 2 delivery fee,,2.0,0,$$ • Cafe,express bar by lassana (causeway bay),express bar by lassana (causeway bay),,4.1/5,,,
+20,classified,"Lin Fa Kung St W, Causeway Bay, Hong Kong, Shop ABC, G/F, China Tower,
+ • 
+More info",86.64172661870505,140.0,"['Drinks', 'Sandwich', 'Western', 'European', 'Salad']",['Western'],Drinks,Western,HK$ 17 delivery fee,19.0,2.0,0,$$ • Western,classified (tai hang),classified (tai hang),20% off $150,4.4/5,4.2,1009.0,34
+21,burgeroom,"Towning Mansion, Shop D, G/F, Hong Kong Island
+ • 
+More info",111.75,126.0,"['American', 'Burger', 'Western', 'Tea Time']",['Burger'],American,Burger,HK$ 20 delivery fee,,2.0,0,$$ • Burger,burgeroom (causeway bay),burgeroom (causeway bay),,4.3/5,4.4,439.0,14
+22,tiger sugar,"Hong Kong, 灣仔柯布連道2號修頓中心地下4號舖, Shop 4, G/F, Southorn Centre, ,
+ • 
+More info",34.30232558139535,34.0,"['Drinks', 'Taiwanese', 'Only on foodpanda', 'Tea Time']",['Bubble Tea'],Drinks,Bubble Tea,HK$ 20 delivery fee,24.0,2.0,1,$$ • Bubble Tea,tiger sugar (causeway bay),tiger sugar 老虎堂黑糖專売 (wan chai 灣仔),,4.5/5,4.5,166.0,22
+23,tiger sugar,"Hong Kong, 銅鑼灣渣甸街36號地下3號舖, Shop 3, G/F, ,
+ • 
+More info",34.30232558139535,34.0,"['Drinks', 'Taiwanese', 'Only on foodpanda', 'Tea Time']",['Bubble Tea'],Drinks,Bubble Tea,HK$ 20 delivery fee,,2.0,1,$$ • Bubble Tea,tiger sugar (causeway bay),tiger sugar 老虎堂黑糖專売 (causeway bay 銅鑼灣),,4.5/5,4.6,166.0,(12)
+24,chicken wings mountain,"520 Jaffe Rd, Hong Kong Island
+ • 
+More info",165.8842105263158,157.0,"['Hong Kong', 'Carousel Deals']",['Chinese'],Hong Kong,Chinese,HK$ 20 delivery fee,19.0,2.0,0,$$ • Chinese,chicken wings mountain (causeway bay),雞翼山 chicken wings mountain (銅鑼灣 causeway bay),10% off $80,4.6/5,4.7,803.0,26
+25,northern dumpling yuan,"401 Lockhart Rd, Shop B, G/F,
+ • 
+More info",49.14150943396226,57.0,"['Noodles', 'Chinese']",['Chinese'],Noodles,Chinese,HK$ 20 delivery fee,19.0,2.0,0,$$ • Chinese,northern dumpling yuan (causeway bay),北方餃子源 northern dumpling yuan (銅鑼灣 causeway bay),,4.6/5,4.7,383.0,52
+26,ramen kureha,"20 Wun Sha St, Shop B, G/F, ,
+ • 
+More info",47.0,78.0,"['Noodles', 'Japanese', 'Dine-in Price']",['Japanese'],Noodles,Japanese,HK$ 17 delivery fee,19.0,1.0,0,$ • Japanese,ramen kureha (tai hang),拉麵來 ramen kureha (大坑 tai hang),10% off $100,4.2/5,4.5,141.0,20
+27,cross cafe,"G/F No, 64 Leighton Rd, Causeway Bay, Hong Kong,
+ • 
+More info",29.232,53.0,"['Cakes & Bakery', 'Noodles', 'Sandwich', 'Hong Kong', 'Carousel Deals']",['Fast Food'],Cakes & Bakery,Fast Food,HK$ 20 delivery fee,24.0,1.0,0,$ • Fast Food,cross cafe (causeway bay),十字冰室 cross cafe (銅鑼灣 causeway bay),10% off $80,4.3/5,4.4,1119.0,94
+28,nene chicken,"500 Hennessy Rd, Shop1104, 11/F, Wan Chai District, Hong Kong SAR
+ • 
+More info",37.22666666666667,62.0,"['Noodles', 'Korean', 'Limited Offers', 'Dine-in Price', 'Carousel Deals']",['Korean'],Noodles,Korean,HK$ 20 delivery fee,19.0,2.0,0,$$ • Korean,nene chicken (causeway bay),nene chicken (causeway bay),20% off $100,4.2/5,3.9,292.0,23
+29,cheung hing kee shanghai pan-fried buns,"North Point Centre, 278-288 King'S Rd, North Point, Hong Kong, Unit 2, G/F King’s Park Lane,,
+ • 
+More info",49.880769230769225,65.0,"['Dim Sum', 'Chinese', 'Favourites by foodpanda']","['Cantonese', 'Chinese', 'Fast Food', 'Noodles']",Dim Sum,Cantonese,HK$ 17 delivery fee,19.0,2.0,0,"$$ • Cantonese
+ • 
+Chinese
+ • 
+Fast Food
+ • 
+Noodles",cheung hing kee shanghai pan-fried buns (fortress hill),祥興記上海生煎包 cheung hing kee shanghai pan-fried buns (炮台山 fortress hill),10% off $80,4.4/5,4.6,277.0,41
+30,men wah bing teng,"535 Jaffe Rd, Shop G02, G/F, Tower 535, Causeway Bay, Hong Kong Island
+ • 
+More info",25.42,71.0,"['Hong Kong', 'Cha Chaan Teng', 'Limited Offers', 'Dine-in Price']","['Chinese', 'Cantonese', 'Fast Food']",Hong Kong,Chinese,HK$ 20 delivery fee,19.0,1.0,0,"$ • Chinese
+ • 
+Cantonese
+ • 
+Fast Food",men wah bing teng (causeway bay),敏華冰廳 men wah bing teng (景隆街 cannon st.),10% off $150,4.4/5,4.3,178.0,32
+31,men wah bing teng,"109 Wan Chai Rd, Shop 1, G/F, L' Wanchai, Hong Kong Island
+ • 
+More info",25.42,72.0,"['Hong Kong', 'Cha Chaan Teng', 'Limited Offers', 'Dine-in Price']","['Chinese', 'Cantonese', 'Fast Food']",Hong Kong,Chinese,HK$ 20 delivery fee,24.0,1.0,0,"$ • Chinese
+ • 
+Cantonese
+ • 
+Fast Food",men wah bing teng (causeway bay),敏華冰廳 men wah bing teng (灣仔道 wanchai rd.),10% off $150,4.4/5,4.2,178.0,34
+32,kong chai kee,"2 Canal Road East, Causeway Bay, G/F,
+ • 
+More info",45.397058823529406,52.0,['Hong Kong'],['Cantonese'],Hong Kong,Cantonese,HK$ 20 delivery fee,24.0,3.0,0,$$$ • Cantonese,kong chai kee (causeway bay),江仔記 kong chai kee (銅鑼灣),,4.5/5,4.4,169.0,40
+33,tp tea,"9 Lee Garden Rd, East Point, Hong Kong, G/F, Hong Kong Island
+ • 
+More info",25.274074074074072,34.0,"['Drinks', 'Taiwanese', 'Carousel Deals']",['Bubble Tea'],Drinks,Bubble Tea,HK$ 20 delivery fee,24.0,1.0,0,$ • Bubble Tea,tp tea (causeway bay),tp tea 茶湯會 (causeway bay),20% off $100,4.5/5,4.5,351.0,13
+34,tai hang bar & grill,"38 Tung Lo Wan Rd, Hong Kong Island
+ • 
+More info",143.1818181818182,155.0,"['Pasta', 'Pizza', 'Western', 'Tea Time', 'Favourites by foodpanda']","['Western', 'Pizza']",Pasta,Western,HK$ 17 delivery fee,,1.0,0,"$ • Western
+ • 
+Pizza",tai hang bar & grill,tai hang bar & grill,10% off $250,4.5/5,4.4,896.0,35
+35,stew,"Rialto Mansion, 177-191a King'S Rd, North Point, Hong Kong, Shop D, G/F,
+ • 
+More info",65.97872340425532,90.0,"['Dessert', 'Hong Kong', 'Soup']",['Cantonese'],Dessert,Cantonese,HK$ 17 delivery fee,19.0,1.0,0,$ • Cantonese,stew (north point),燉 stew (北角 north point),,4.3/5,4.3,230.0,25
+36,stew,"1803 Cre Building, 303 Hennessy Rd, Shop B, G/F, Office Plus@Wan Chai, , Hong Kong Island
+ • 
+More info",65.97872340425532,87.0,"['Dessert', 'Hong Kong', 'Soup']","['Cantonese', 'Chinese']",Dessert,Cantonese,HK$ 17 delivery fee,24.0,1.0,0,"$ • Cantonese
+ • 
+Chinese",stew (north point),燉 stew (灣仔 wan chai),,4.3/5,,230.0,
+37,istanbul kebab corner,"Fu Lee Loy Shopping Centre, 9-27 King Wah Road, G/F, Shop 11,
+ • 
+More info",61.49302325581395,69.0,"['Middle Eastern', 'Only on foodpanda', 'Dine-in Price', 'Carousel Deals']","['Indian', 'Pakistani', 'Turkish', 'Pizza']",Middle Eastern,Indian,HK$ 12 delivery fee,14.0,2.0,1,"$$ • Indian
+ • 
+Pakistani
+ • 
+Turkish
+ • 
+Pizza",istanbul kebab corner,istanbul kebab corner,10% off $80,4/5,,33.0,
+38,dazzling cafe,"311 Gloucester Rd, Shop 313-314, 3/F, Windsor House, Wan Chai District, Hong Kong SAR Hong Kong
+ • 
+More info",68.73529411764707,71.0,"['Taiwanese', 'Only on foodpanda', 'Dine-in Price']","['Taiwanese', 'Cafe', 'Asian Fusion']",Taiwanese,Taiwanese,HK$ 20 delivery fee,19.0,2.0,1,"$$ • Taiwanese
+ • 
+Cafe
+ • 
+Asian Fusion",dazzling cafe (causeway bay),dazzling cafe (windsor house),,4.5/5,,72.0,
+39,hot dog link,"27 Mercury St, Causeway Bay, Hong Kong, Shop C, G/F,
+ • 
+More info",39.55681818181818,34.0,"['German', 'Only on foodpanda', 'Dine-in Price']","['American', 'Allergy friendly']",German,American,HK$ 12 delivery fee,19.0,2.0,1,"$$ • American
+ • 
+Allergy friendly",hot dog link (tin hau),德國熱狗 hot dog link(tin hau),,4.6/5,4.4,169.0,31
+40,chali,"500 Hennessy Rd, Shop 511A, 5/F, , Hong Kong Island
+ • 
+More info",29.565,44.0,"['Drinks', 'Cashback', 'Carousel Deals']","['Bubble Tea', 'Juice and smoothies']",Drinks,Bubble Tea,HK$ 20 delivery fee,19.0,1.0,0,"$ • Bubble Tea
+ • 
+Juice and smoothies",chali (causeway bay),chali,10% off $80,4.4/5,,108.0,
+41,rebar,"2 Yee Wo St, Shop 1, 6/F, Ying Kong Mansion, , Causeway Bay, Hong Kong Island
+ • 
+More info",39.12,43.0,"['Pasta', 'Western', 'Dine-in Price', 'Limited Offers', 'Carousel Deals']",['Western'],Pasta,Western,HK$ 20 delivery fee,19.0,2.0,0,$$ • Western,rebar,rebar,20% off $80,4.1/5,,37.0,
+42,taiwan lang,"Ngan Mok Street, 21 Ngan Mok St, G/F&1/F,, Hong Kong Island
+ • 
+More info",51.560439560439555,30.0,"['Drinks', 'Noodles', 'Taiwanese', 'Soup']",['Taiwanese'],Drinks,Taiwanese,HK$ 12 delivery fee,14.0,1.0,0,$ • Taiwanese,taiwan lang (tin hau),台灣郎 taiwan lang (天后tin hau),,4.2/5,3.6,199.0,11
+43,ocean empire food shop,"151-155 Johnston Rd, Shop B, G/F, ,
+ • 
+More info",34.22702702702703,64.0,"['Chinese', 'Hong Kong', 'Carousel Deals']",['Chinese'],Chinese,Chinese,HK$ 20 delivery fee,24.0,1.0,0,$ • Chinese,ocean empire food shop (north point),ocean empire food shop 海皇粥店 (灣仔 wanchai),20% off $100,4.4/5,4.6,495.0,34
+44,ocean empire food shop,"406 King'S Rd, North Point, Hong Kong, G/F,
+ • 
+More info",34.22702702702703,50.0,"['Chinese', 'Hong Kong', 'Carousel Deals']",['Chinese'],Chinese,Chinese,HK$ 20 delivery fee,,1.0,0,$ • Chinese,ocean empire food shop (north point),ocean empire food shop 海皇粥店 (北角 north point),20% off $100,4.4/5,,495.0,
+45,ocean empire food shop,"Hong Kong, 銅鑼灣駱克道472號地下, G/F, ,
+ • 
+More info",34.22702702702703,63.0,"['Chinese', 'Hong Kong', 'Carousel Deals']",['Chinese'],Chinese,Chinese,HK$ 20 delivery fee,,1.0,0,$ • Chinese,ocean empire food shop (north point),ocean empire food shop 海皇粥店 (銅鑼灣 causeway bay),20% off $100,4.4/5,,495.0,
+46,gwing kee restaurant,"376～380 King'S Rd, North Point, Hong Kong, G/F,,
+ • 
+More info",44.862135922330104,54.0,"['Noodles', 'Chinese', 'Cashback', 'Together Tastes Better with Coca-Cola®️', 'Carousel Deals']",['Cantonese'],Noodles,Cantonese,HK$ 20 delivery fee,19.0,2.0,0,$$ • Cantonese,gwing kee restaurant (north point),炯記餐室 gwing kee restaurant (北角 north point),20% off $100,4.3/5,,590.0,
+47,gwing kee restaurant,"City Mansion, 483-499 Jaffe Rd, Causeway Bay, Hong Kong, Shop G & H, G/F,,
+ • 
+More info",44.862135922330104,59.0,"['Noodles', 'Chinese', 'Cashback', 'Together Tastes Better with Coca-Cola®️', 'Carousel Deals']",['Chinese'],Noodles,Chinese,HK$ 20 delivery fee,,2.0,0,$$ • Chinese,gwing kee restaurant (north point),炯記餐室 gwing kee restaurant (銅鑼灣),20% off $100,4.3/5,,590.0,
+48,my cup of tea,"5 Haven St, Shop 3&6, G/F, Lei Shun Court, Wan Chai District, Hong Kong SAR 0000
+ • 
+More info",52.137931034482754,46.0,"['Sandwich', 'Hong Kong', 'Only on foodpanda', 'Tea Time']",['Cantonese'],Sandwich,Cantonese,HK$ 12 delivery fee,19.0,2.0,1,$$ • Cantonese,my cup of tea (fortress hill),my cup of tea 我杯茶 (銅鑼灣),,4.4/5,,87.0,
+49,my cup of tea,"5 Haven St, Shop 3&6, G/F, Lei Shun Court, Wan Chai District, Hong Kong SAR 0000
+ • 
+More info",52.137931034482754,46.0,"['Hong Kong', 'Sandwich', 'Only on foodpanda']",['Cantonese'],Hong Kong,Cantonese,HK$ 20 delivery fee,19.0,2.0,1,$$ • Cantonese,my cup of tea (causeway bay),my cup of tea 我杯茶 (銅鑼灣),,4.5/5,,45.0,
+50,my cup of tea,"12 Wang On Rd, Shop 5, G/F, Wang Fai Mansion, Eastern District, Hong Kong SAR 0000
+ • 
+More info",52.137931034482754,46.0,"['Sandwich', 'Hong Kong', 'Only on foodpanda', 'Tea Time']",['Cantonese'],Sandwich,Cantonese,HK$ 12 delivery fee,,2.0,1,$$ • Cantonese,my cup of tea (fortress hill),my cup of tea 我杯茶 (北角),,4.4/5,,87.0,
+51,my cup of tea,"12 Wang On Rd, Shop 5, G/F, Wang Fai Mansion, Eastern District, Hong Kong SAR 0000
+ • 
+More info",52.137931034482754,46.0,"['Hong Kong', 'Sandwich', 'Only on foodpanda']",['Cantonese'],Hong Kong,Cantonese,HK$ 20 delivery fee,,2.0,1,$$ • Cantonese,my cup of tea (causeway bay),my cup of tea 我杯茶 (北角),,4.5/5,,45.0,
+52,phd,"Po Hon Building, 24 Percival Street, 3/F & 4/F, ,
+ • 
+More info",95.6875,74.0,"['Italian', 'Pizza', 'Western', 'Pasta']","['Pizza', 'Pasta']",Italian,Pizza,Free delivery,19.0,2.0,0,"$$ • Pizza
+ • 
+Pasta",phd (percival street),phd (銅鑼灣波斯富街),Free Delivery $200,4.1/5,4.4,114.0,25
+53,virus restaurant & bar,"Lockhart Road, 21/F, Chung Wai Commercial Building,, Causeway Bay, Hong Kong Island
+ • 
+More info",81.1875,105.0,"['Western', 'Dine-in Price']",['Japanese'],Western,Japanese,HK$ 20 delivery fee,19.0,2.0,0,$$ • Japanese,virus restaurant & bar,virus restaurant & bar,,3.5/5,,4.0,
+54,veggie spinner,"144 Tung Lo Wan Rd, Causeway Bay, Hong Kong, G/F, Hong Kong Island
+ • 
+More info",62.089156626506025,71.0,"['Vegetarian', 'Pasta', 'Carousel Deals']",['Vegetarian'],Vegetarian,Vegetarian,HK$ 17 delivery fee,19.0,1.0,0,$ • Vegetarian,veggie spinner,veggie spinner (tai hang),10% off $80,4.4/5,,72.0,
+55,pandan leaf indonesian food,"Causeway Bay Commercial Building, 1-5 Sugar St, Causeway Bay, Hong Kong, Shop B2, G/F,,
+ • 
+More info",72.75755395683454,93.0,"['Indonesian', 'Carousel Deals']",['South East Asian'],Indonesian,South East Asian,HK$ 20 delivery fee,19.0,2.0,0,$$ • South East Asian,pandan leaf indonesian food,班蘭葉印尼美食 pandan leaf indonesian food,10% off $80,4.3/5,,166.0,
+56,turkish best kebab,"58 Tung Lo Wan Rd, Tai Hang, Hong Kong, G/F, (Opposite CRC Club),
+ • 
+More info",44.1,70.0,"['Mediterranean', 'Salad', 'Carousel Deals']",['Asian Fusion'],Mediterranean,Asian Fusion,HK$ 17 delivery fee,19.0,2.0,0,$$ • Asian Fusion,turkish best kebab,turkish best kebab,10% off $80,3.4/5,,52.0,
+57,arabian knights,"58 Tung Lo Wan Rd, Tai Hang, Hong Kong, G/F, ,
+ • 
+More info",57.11666666666667,75.0,"['Indian', 'Carousel Deals']",['Indian'],Indian,Indian,HK$ 17 delivery fee,14.0,2.0,0,$$ • Indian,arabian knights,arabian knights,10% off $80,3.4/5,,35.0,
+58,stand by you desserts,"62 Hing Fat St, Tin Hau, Hong Kong, Shop KL3, G/F, Mayson Garden Building,,
+ • 
+More info",48.37037037037037,44.0,"['Dessert', 'Hong Kong', 'Together Tastes Better with Coca-Cola®️', 'Night Owl Picks']",['Desserts'],Dessert,Desserts,HK$ 12 delivery fee,19.0,1.0,0,$ • Desserts,stand by you desserts,陪著你走甜品 stand by you desserts,,4.4/5,4.6,305.0,21
+59,tsui woo seafood restaurant,"18 Jupiter St, Causeway Bay, Hong Kong, Shop C-E, G/F, ,
+ • 
+More info",26.344827586206893,273.0,"['Dim Sum', 'Noodles', 'Hong Kong']",['Chinese'],Dim Sum,Chinese,HK$ 12 delivery fee,14.0,2.0,0,$$ • Chinese,tsui woo seafood restaurant (fortress hill),tsui woo seafood restaurant 翠湖海鮮飯店,,4.3/5,,120.0,
+60,green river restaurant,"19a Fort St, G/F,, Hong Kong Island
+ • 
+More info",25.857142857142854,54.0,"['Hong Kong', 'Together Tastes Better with Coca-Cola®️']",['Cantonese'],Hong Kong,Cantonese,HK$ 17 delivery fee,19.0,1.0,0,$ • Cantonese,green river restaurant (fort street),翠河餐廳 green river restaurant (北角 north point),,4.1/5,4.0,245.0,14
+61,green river restaurant,"106 Tsat Tsz Mui Rd, North Point, Hong Kong, Shop 1, G/F, ,
+ • 
+More info",25.857142857142854,47.0,"['Hong Kong', 'Together Tastes Better with Coca-Cola®️']",['Chinese'],Hong Kong,Chinese,HK$ 17 delivery fee,24.0,1.0,0,$ • Chinese,green river restaurant (fort street),翠河餐廳 green river restaurant (七姊妹 tsat tsz mui road),,4.1/5,,245.0,
+62,chillers,"183 Electric Road, North Point, G/F,, Hong Kong, Hong Kong 0
+ • 
+More info",196.75,302.0,"['Beer & Wine', 'Drinks', 'Mexican', 'Western', 'Dine-in Price']","['Alcohol', 'Drinks', 'Wine']",Beer & Wine,Alcohol,HK$ 12 delivery fee,14.0,1.0,0,"$ • Alcohol
+ • 
+Drinks
+ • 
+Wine",chillers (north point),chillers (north point),,4.6/5,,,
+63,chillers,"31 Wong Nai Chung Rd, Happy Valley, Hong Kong, G/F,,
+ • 
+More info",196.75,303.0,"['Beer & Wine', 'Drinks', 'Mexican', 'Western', 'Dine-in Price']","['Alcohol', 'Wine', 'Drinks']",Beer & Wine,Alcohol,HK$ 12 delivery fee,19.0,1.0,0,"$ • Alcohol
+ • 
+Wine
+ • 
+Drinks",chillers (north point),chillers (happy valley),,4.6/5,,,
+64,cafe hue vietnamese restaurant,"61 Fort St, G-2/F, Echo Peak Tower , Eastern District, Hong Kong SAR Hong Kong
+ • 
+More info",57.676923076923075,50.0,"['Noodles', 'Vietnamese']",['Vietnamese'],Noodles,Vietnamese,HK$ 20 delivery fee,19.0,1.0,0,$ • Vietnamese,cafe hue vietnamese restaurant,cafe hue vietnamese restaurant 華順越南餐廳,,4/5,,175.0,
+65,msw bar & restaurant,"Shop B, G/F, Kim Ming Building, 1-3 Tsing Fung Street, Tin Hau, Hong Kong, APACX hong kong
+ • 
+More info",158.3125,294.0,"['French', 'Pasta']","['French', 'European', 'Western', 'Alcohol', 'Allergy friendly']",French,French,HK$ 12 delivery fee,19.0,2.0,0,"$$ • French
+ • 
+European
+ • 
+Western
+ • 
+Alcohol
+ • 
+Allergy friendly",msw bar & restaurant,msw bar & restaurant,,4.7/5,,,
+66,around wellington,"Circle Tower, 28 Tang Lung St, Bowrington, Hong Kong, 21/F,
+ • 
+More info",98.25882352941177,65.0,"['Pizza', 'Hong Kong', 'Only on foodpanda', 'Pasta', 'Dine-in Price']",['Western'],Pizza,Western,HK$ 20 delivery fee,19.0,2.0,1,$$ • Western,around wellington,around wellington,10% off $300,4.9/5,,24.0,
+67,siam 28,"Macau Yat Yuen Centre, 523-527 Hennessy Rd, East Point, Hong Kong, 28/F, Hong Kong Island
+ • 
+More info",100.56164383561644,181.0,"['Noodles', 'Thai', 'Curry', 'Dine-in Price']",['Thai'],Noodles,Thai,HK$ 20 delivery fee,14.0,2.0,0,$$ • Thai,siam 28,siam 28,,4.2/5,4.1,105.0,14
+68,three virtues vegetarian restaurant,"英皇道395號1樓, 1/F, , 香港島
+ • 
+More info",70.70454545454545,80.0,"['Noodles', 'Vegetarian', 'Hong Kong', 'Soup']",['Vegetarian'],Noodles,Vegetarian,HK$ 20 delivery fee,19.0,2.0,0,$$ • Vegetarian,three virtues vegetarian restaurant (north point),三德素食館 three virtues vegetarian restaurant (北角),,4.4/5,4.7,144.0,12
+69,sedap gurih indonesia restaurant,"Lok Sing Centre, 19-31 Yee Wo St, Causeway Bay, Hong Kong, G/F,,
+ • 
+More info",58.67635135135135,65.0,"['Indonesian', 'Dine-in Price', 'Carousel Deals']",['South East Asian'],Indonesian,South East Asian,HK$ 20 delivery fee,19.0,1.0,0,$ • South East Asian,sedap gurih indonesia restaurant,福興印尼餐廳 sedap gurih indonesia restaurant,10% off $80,4.4/5,4.8,50.0,12
+70,jannat indian restaurant,"Sun Chun St, G/F, 14A,, Hong Kong Island
+ • 
+More info",80.4,95.0,"['Indian', 'Carousel Deals']",['Indian'],Indian,Indian,HK$ 17 delivery fee,19.0,2.0,0,$$ • Indian,jannat indian restaurant,jannat indian restaurant,10% off $80,3.1/5,,21.0,
+71,perfect.ice,"Hong Kong, 銅鑼灣謝斐道518-520號號地下, Shop A, G/F, 518 Jaffe Road, Causeway Bay,
+ • 
+More info",35.73333333333333,46.0,"['Drinks', 'Korean', 'Dine-in Price', 'Tea Time', 'Carousel Deals']","['Juice and smoothies', 'Desserts']",Drinks,Juice and smoothies,HK$ 20 delivery fee,19.0,2.0,0,"$$ • Juice and smoothies
+ • 
+Desserts",perfect.ice,perfect.ice,20% off $100,4.6/5,,24.0,
+72,maggie & rose,"Hong Kong, Causeway Bay, Yun Ping Rd, 28號shop 308 & 311, 3/F, Lee Garden Two,
+ • 
+More info",89.46875,93.0,"['Pasta', 'Pizza', 'Sandwich', 'American', 'Salad']",['British'],Pasta,British,HK$ 20 delivery fee,19.0,2.0,0,$$ • British,maggie & rose,maggie & rose,,4.4/5,,17.0,
+73,kanada-ya,"34 Tang Lung Street, 34 Tang Lung St, Bowrington, Hong Kong, G/F, Hong Kong Island 0000
+ • 
+More info",69.22222222222223,110.0,"['Noodles', 'Japanese', 'Soup', 'Salad']",['Japanese'],Noodles,Japanese,HK$ 20 delivery fee,19.0,2.0,0,$$ • Japanese,kanada-ya (causeway bay),kanada-ya 金田家 (causeway bay 銅鑼灣),,4.4/5,,56.0,
+74,casa pennington,"13-15 Pennington Street, Causeway Bay, H.K., Causeway Bay, 3/F, Biz Aura, ,
+ • 
+More info",184.38709677419357,368.0,"['Western', 'Pasta', 'Dine-in Price', 'Carousel Deals']",['Western'],Western,Western,HK$ 20 delivery fee,,3.0,0,$$$ • Western,casa pennington,casa pennington,20% off $100,4.2/5,4.0,20.0,
+75,moo moo plus,"59-65 Paterson Street, Fashion Walk, Causeway Bay, Shop C&D, G/F,, Hong Kong, Hong Kong 0000
+ • 
+More info",147.09333333333333,137.0,"['Burger', 'Pizza', 'Western', 'Only on foodpanda', 'Pasta']","['Burger', 'American', 'Western']",Burger,Burger,HK$ 20 delivery fee,19.0,3.0,1,"$$$ • Burger
+ • 
+American
+ • 
+Western",moo moo plus,moo moo plus,20% off $100,4.5/5,,10.0,
+76,16 shell,"Po Wing Building, 6-16 Shell Street, Fortress Hill, Tin Hau, Shop B, G/F, , Hong Kong, Hong Kong 0
+ • 
+More info",146.25,197.0,"['Pasta', 'Italian', 'Salad', 'Carousel Deals']",['Western'],Pasta,Western,HK$ 12 delivery fee,,1.0,0,$ • Western,16 shell,16 shell,10% off $80,4.5/5,4.0,21.0,
+77,hong kong canteen,"Aia Tower, 183 Electric Road, North Point, Shop 16, G/F, , Hong Kong, Hong Kong 0
+ • 
+More info",40.4,71.0,"['Noodles', 'Hong Kong']",['Cantonese'],Noodles,Cantonese,HK$ 12 delivery fee,19.0,2.0,0,$$ • Cantonese,hong kong canteen (electric road),香港飯堂 hong kong canteen (友邦廣場 aia tower),,4.3/5,,270.0,
+78,hong kong canteen,"72 Wharf Rd, Shop 6, G/F, Yen Po Court, North Point, Hong Kong Island
+ • 
+More info",40.4,73.0,"['Noodles', 'Hong Kong']",['Cantonese'],Noodles,Cantonese,HK$ 12 delivery fee,,2.0,0,$$ • Cantonese,hong kong canteen (electric road),香港飯堂 hong kong canteen (北角 north point),,4.3/5,,270.0,
+79,villa villa,"25 Kam Ping St, North Point, Hong Kong, Shop , G/F, Hong Kong Island
+ • 
+More info",125.30555555555556,122.0,"['Burger', 'Pasta', 'Pizza', 'Western']",['Cafe'],Burger,Cafe,HK$ 20 delivery fee,,1.0,0,$ • Cafe,villa villa,villa villa,,4.4/5,4.0,179.0,25
+80,minamoto kitchoan,"555 Hennessy Rd, Causeway Bay, Hong Kong, Shop 29, B2/F, , Hong Kong Island Hong Kong
+ • 
+More info",78.5,86.0,"['Cakes & Bakery', 'Dessert', 'Japanese']",['Desserts'],Cakes & Bakery,Desserts,HK$ 20 delivery fee,19.0,2.0,0,$$ • Desserts,minamoto kitchoan (cwb sogo),minamoto kitchoan 源吉兆庵 (causeway bay),,4.6/5,,24.0,
+81,bingo & cook,"487 Lockhart Rd, 2/F, L'Hart, ,
+ • 
+More info",149.4,169.0,"['Korean', 'Dine-in Price']",['Korean'],Korean,Korean,HK$ 20 delivery fee,,2.0,0,$$ • Korean,bingo & cook (causeway bay),bingo & cook(causeway bay),,4/5,,50.0,
+82,hesheeat,"Shop 201, 2 Great George St, Causeway Bay, Hong Kong,
+ • 
+More info",87.87272727272726,92.0,"['Dessert', 'Pasta', 'Sandwich', 'Western']","['Desserts', 'Pasta', 'Burger', 'Italian', 'Western']",Dessert,Desserts,HK$ 20 delivery fee,,2.0,0,"$$ • Desserts
+ • 
+Pasta
+ • 
+Burger
+ • 
+Italian
+ • 
+Western",hesheeat (causeway bay),hesheeat (causewaybay),10% off $100,4.5/5,4.4,142.0,(15)
+83,the mast’ of mozzarella & co.,"19 Leighton Rd, Bowrington, Hong Kong, G/F, 19,
+ • 
+More info",131.63636363636363,148.0,"['Burger', 'Sandwich', 'Italian', 'Pasta', 'Salad']",['Pizza'],Burger,Pizza,HK$ 25 delivery fee,,2.0,0,$$ • Pizza,the mast’ of mozzarella & co.,the mast’ of mozzarella & co.,20% off $100,4.5/5,,63.0,
+84,the leah,"28 Yun Ping Rd, Causeway Bay, Hong Kong, Shop 308 & 311,
+ • 
+More info",158.875,229.0,"['Western', 'Salad', 'Spirit and Wines']",['British'],Western,British,HK$ 20 delivery fee,,2.0,0,$$ • British,the leah,the leah,,3.7/5,,8.0,
+85,new forest restaurant,"441 King'S Rd, North Point, Hong Kong, Shop C, G/F, Hong Kong Island
+ • 
+More info",73.04347826086956,74.0,"['Chinese', 'Western']",['Chinese'],Chinese,Chinese,HK$ 25 delivery fee,,1.0,0,$ • Chinese,new forest restaurant (north point),new forest restaurant 新森林焗之專門店 (north point),,4.3/5,4.3,610.0,(14)
+86,new forest restaurant,"Wai Hay Mansion, 201-203 Wan Chai Rd, Wan Chai, Hong Kong, G/F, Hong Kong Island
+ • 
+More info",73.04347826086956,73.0,"['Chinese', 'Western']",['Chinese'],Chinese,Chinese,HK$ 25 delivery fee,,1.0,0,$ • Chinese,new forest restaurant (north point),new forest restaurant 新森林焗之專門店 (wan chai),,4.3/5,,610.0,
+87,kebab corner,"96 Electric Road, Tin Hau, Shop A4, G/F, ,
+ • 
+More info",65.7,91.0,"['Vegetarian', 'Middle Eastern', 'Carousel Deals']",['Middle Eastern'],Vegetarian,Middle Eastern,HK$ 12 delivery fee,,3.0,0,$$$ • Middle Eastern,kebab corner,kebab corner,10% off $80,4/5,,188.0,
+88,the red pepper restaurant,"7 Lan Fong Rd, Hong Kong Island
+ • 
+More info",154.6,152.0,"['Chinese', 'Soup', 'Dine-in Price']",['Chinese'],Chinese,Chinese,HK$ 20 delivery fee,,2.0,0,$$ • Chinese,the red pepper restaurant,the red pepper restaurant 南北樓,,3.6/5,,23.0,
+89,gyuugoku stone grill steak,"Lok Sing Centre, 19-31 Yee Wo St, Causeway Bay, Hong Kong, Shop 1C-1D, G/F,,
+ • 
+More info",78.875,146.0,['Japanese'],['Japanese'],Japanese,Japanese,Free delivery,,2.0,0,$$ • Japanese,gyuugoku stone grill steak (causeway bay),牛極 gyuugoku stone grill steak (銅鑼灣),Free Delivery $200,4.2/5,,18.0,
+90,the socialhouse,"12 Shepherd St, Tai Hang, Hong Kong,
+ • 
+More info",141.67272727272731,201.0,"['European', 'Pasta', 'Salad', 'Special Prices', 'Limited Offers']",['American'],European,American,HK$ 17 delivery fee,,2.0,0,$$ • American,the socialhouse,the socialhouse,20% off $100,4.5/5,,12.0,
+91,london kebab house,"6-16 Shell St, Causeway Bay, Hong Kong, D2, G/F, ,
+ • 
+More info",55.38095238095239,56.0,"['Indian', 'Salad', 'Curry', 'Special Prices', 'Limited Offers']",['Indian'],Indian,Indian,HK$ 12 delivery fee,,3.0,0,$$$ • Indian,london kebab house (tin hau),london kebab house (fortress hill),,3.6/5,,162.0,
+92,van gogh kitchen,"Shing Wah Mansion, 451-457 Hennessy Rd, Bowrington, Hong Kong, 2B, Hong Kong Island
+ • 
+More info",60.78481012658228,144.0,"['Beer & Wine', 'Drinks', 'Seafood', 'Italian', 'Tea Time']",['Italian'],Beer & Wine,Italian,HK$ 20 delivery fee,,3.0,0,$$$ • Italian,van gogh kitchen,van gogh kitchen (causeway bay) 凡高廚房,30% off $100,3.8/5,,31.0,
+93,kampoeng,"Causeway Bay Commercial Building, 1-5 Sugar St, Causeway Bay, Hong Kong, B/F, ,
+ • 
+More info",57.8936170212766,59.0,"['South East Asian', 'Curry']",['South East Asian'],South East Asian,South East Asian,HK$ 20 delivery fee,,2.0,0,$$ • South East Asian,kampoeng,kampoeng,,4/5,,109.0,
+94,youni,"Kin Lee Building Block B, 9-13a號 O'Brien Rd, 地下, Hong Kong, G/F, Kin Lee Building ,
+ • 
+More info",93.77966101694916,64.0,"['International', 'Dine-in Price']",['Healthy'],International,Healthy,HK$ 20 delivery fee,,1.0,0,$ • Healthy,youni (leighton centre),youni (wan chai),,5/5,,2.0,
+95,royal indian curry house,"Tsing Fung Street, 20 Tsing Fung St, G/F, ,
+ • 
+More info",63.92,72.0,"['Dessert', 'Indian', 'Soup', 'Night Owl Picks', 'Limited Offers']",['Indian'],Dessert,Indian,HK$ 12 delivery fee,,2.0,0,$$ • Indian,royal indian curry house (tin hau),royal indian curry house 皇家印度咖哩屋,20% off $100,4.2/5,,204.0,
+96,coffee obsession,"4-8 Boat St, North Point, Hong Kong, Shop E, G/F, King'S Lodge,
+ • 
+More info",28.675,56.0,"['Drinks', 'Western', 'Only on foodpanda', 'Dine-in Price']","['Cafe', 'Western', 'European']",Drinks,Cafe,HK$ 12 delivery fee,,2.0,1,"$$ • Cafe
+ • 
+Western
+ • 
+European",coffee obsession,coffee obsession,,5/5,,2.0,
+97,seoulmate cafe,"Location Data Scrubbed For Maps Compliance. Please Reach Out To The Merchant Platform Team For More Details,
+ • 
+More info",80.42666666666666,70.0,"['Korean', 'Western', 'Dine-in Price']",['Korean'],Korean,Korean,HK$ 20 delivery fee,,2.0,0,$$ • Korean,seoulmate cafe (causeway bay),seoulmate cafe,,4.4/5,,19.0,
+98,second sip by studio caffeine,"23 School St, Tai Hang, Hong Kong, G/F, ,
+ • 
+More info",74.36585365853658,79.0,"['Drinks', 'Vegetarian', 'Western', 'Tea Time']",['American'],Drinks,American,HK$ 17 delivery fee,,1.0,0,$ • American,second sip by studio caffeine,second sip by studio caffeine,,4.3/5,,31.0,
+99,hkketo,"50 Paterson St, 1A, Towning Mansion, , Causeway Bay, Hong Kong Island
+ • 
+More info",116.23529411764706,169.0,"['Healthy', 'Hong Kong']",['Healthy'],Healthy,Healthy,HK$ 20 delivery fee,,2.0,0,$$ • Healthy,hkketo,hkketo,,1/5,,1.0,
+100,kane tsuru ramen,"16 Shell St, Shop E, G/F, , Eastern District, Hong Kong SAR 0000
+ • 
+More info",84.16623376623377,170.0,"['Noodles', 'Japanese', 'Carousel Deals']",['Japanese'],Noodles,Japanese,HK$ 12 delivery fee,,1.0,0,$ • Japanese,kane tsuru ramen (fortress hill),金鶴拉麵 kane tsuru ramen (蜆殼街),20% off $100,4.2/5,,223.0,
+101,wagyu 88,"Hong Kong, Causeway Bay, Tang Lung St, 13/F Circle Tower 28, 13/F, , Hong Kong Island
+ • 
+More info",120.475,417.0,"['Japanese', 'Limited Offers', 'Dine-in Price', 'Carousel Deals']",['Japanese'],Japanese,Japanese,HK$ 20 delivery fee,,2.0,0,$$ • Japanese,wagyu 88,wagyu 88,10% off $80,4.5/5,,71.0,
+102,th & tw cuisine,"Hang Po Building, 6-8號 Mercury St, Fortress Hill, Hong Kong, Shop A, G/F, ,
+ • 
+More info",77.34782608695652,87.0,"['Noodles', 'Thai', 'Soup', 'Dine-in Price']",['Thai'],Noodles,Thai,HK$ 12 delivery fee,,2.0,0,$$ • Thai,th & tw cuisine,泰色食 th & tw cuisine,,4.1/5,4.5,40.0,(10)
+103,home feel,"Hong Kong, Causeway Bay, Jaffe Rd, 460-462號楊耀熾號大廈地下, G/F, ,
+ • 
+More info",81.8433734939759,64.0,['Hong Kong'],"['Cantonese', 'Family friendly']",Hong Kong,Cantonese,HK$ 20 delivery fee,,1.0,0,"$ • Cantonese
+ • 
+Family friendly",home feel (causeway bay),住家菜 home feel (銅鑼灣 causeway bay),,4.5/5,4.8,230.0,(100+)
+104,old beijing,"Jardine Center, 50 Jardine'S Bazaar, Causeway Bay, Hong Kong, 5/F,
+ • 
+More info",100.00459770114942,125.0,"['Chinese', 'Carousel Deals']","['Chinese', 'Allergy friendly']",Chinese,Chinese,HK$ 20 delivery fee,,2.0,0,"$$ • Chinese
+ • 
+Allergy friendly",old beijing (causeway bay),老北京 old beijing (銅鑼灣 causeway bay),20% off $100,4.3/5,4.2,603.0,(10)
+105,the graces restaurant,"Lee Theatre Plaza, 99 Percival Street, Causeway Bay, 20/F, , Hong Kong, Hong Kong 0
+ • 
+More info",113.11627906976744,40.0,"['Chinese', 'Soup']",['Cantonese'],Chinese,Cantonese,HK$ 20 delivery fee,,3.0,0,$$$ • Cantonese,the graces restaurant (cwb),玉桃軒酒家 the graces restaurant (causeway bay),,4.5/5,,,
+106,clay pot indian restaurant,"Hong Kong, North Point, 北角電氣道229號電氣道市政大廈2樓cf5號舖,
+ • 
+More info",68.1111111111111,91.0,"['Seafood', 'Indian']",['Indian'],Seafood,Indian,HK$ 17 delivery fee,,2.0,0,$$ • Indian,clay pot indian restaurant,clay pot indian restaurant 烤爐印度餐廳,,4.4/5,,207.0,
+107,tian tian hainanese chicken rice,"9 Kingston St, Shop H2, G/F, Fashion Walk,
+ • 
+More info",82.7,369.0,"['Singaporean', 'Cashback', 'Dine-in Price', 'Carousel Deals']",['South East Asian'],Singaporean,South East Asian,HK$ 20 delivery fee,,2.0,0,$$ • South East Asian,tian tian hainanese chicken rice (causeway bay),天天海南雞飯 tian tian hainanese chicken rice (銅鑼灣 causeway bay),20% off $100,4.2/5,4.4,338.0,(11)
+108,shun hing,"5 Ormsby St, Tai Hang, Hong Kong, G/F, ,
+ • 
+More info",30.6,18.0,"['Sandwich', 'Chinese', 'Carousel Deals']",['Cantonese'],Sandwich,Cantonese,HK$ 17 delivery fee,,2.0,0,$$ • Cantonese,shun hing (tai hang) restaurant,順興茶餐廳 shun hing (tai hang) restaurant,10% off $80,4.6/5,,389.0,
+109,mirch masala indian restaurant,"7/F, Island Beverley,, 1 Great George St, Causeway Bay, Hong Kong,
+ • 
+More info",94.125,99.0,"['Indian', 'Curry', 'Dine-in Price']",['Indian'],Indian,Indian,HK$ 20 delivery fee,,2.0,0,$$ • Indian,mirch masala indian restaurant (causeway bay),mirch masala indian restaurant 印度美食風味屋,,3.8/5,,171.0,
+110,elementary,"15 School St, Tai Hang, Hong Kong, G/F, ,
+ • 
+More info",178.08860759493672,145.0,"['European', 'Pasta', 'Favourites by foodpanda', 'Dine-in Price']",['Western'],European,Western,HK$ 17 delivery fee,,2.0,0,$$ • Western,elementary,elementary,,4.6/5,,100.0,
