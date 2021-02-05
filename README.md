@@ -50,7 +50,33 @@ Below are the highlights from the EDA:
 * Excluding outliers, the Dollar Sign suggestions on UberEats do not definitively separate price ranges. With the exception of $$$$ being significantly pricier than the other 3.![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/Dollarsign_vs_AveragePrice.png "Dollar Sign Ratings vs Average Price")
 
 ### Reviews vs Ratings
+* Ratings were fairly consistent across No of Reviews. No conclusions can be made on validity of Ratings. The IQR narrows with more reviews as expected
+
 ![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/ReviewCounts_Vs_Ratings.png "Reviews vs Ratings")
 
 ### Cuisine Counts
+* Asian cuisines dominate the area as expected for the demographics.
 ![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/cuisineCounts.png "Cuisine Counts")
+
+### Delivery Costs
+* 2 Outliers with 29 dollars for delivery. They are located in Wanchai (Further away from Tin Hau area) so distance is probably a factor.
+![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/DeliveryCostCounts.png "Delivery Costs")
+
+#### My parters compared Deliveroo and foodpanda. Unfortunately, Deliveroo had very few restaurant over lap with UberEats and foodpanda. I will focus on UberEats X foodpanda.
+
+### UberEats vs foodpand Price Differences
+* Aside from the extreme outliers caused by missing data. UberEats costs more than foodpanda in the Tin Hau area for most restaurants.
+![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/UberEatXPanda%20Price%20Difference.png "Price Differences")
+
+### UberEats vs foodpand Delivery Fee Differences
+* Aside from the extreme outliers caused by missing data. UberEats costs more than foodpanda in the Tin Hau area for most restaurants.
+![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/UberEatXPanda%20Delivery%20Difference.png "Delivery Fee Differences")
+
+## EDA Conclusion
+* Order from foodpanda if restaurants are on both platforms (UberEats). 
+* You will save $25 per à la carte on average with food panda.
+* You will save $3 on delivery fees on average with food panda.
+* Buy from food panda in Tin Hau Area. (Feb 2021)
+
+## Business Applications
+* Food scanner app can help consumers find the best price across three food delivery platform
