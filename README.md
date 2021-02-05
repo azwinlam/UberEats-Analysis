@@ -26,6 +26,9 @@ Copied and pasted some code from previous Job scraping projects. The following i
 ## Data Cleaning
 Due to chinese characters from the restaurants, the file had to be opened with UTF-8 encoding. There was quite a bit of data cleaning before the data was usable.
 
+![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/head.png "Head")
+
+
 * For Name, I had to strip the Chinese characters and remove (AREA) from the string
 * Delivery Fee - extracted integer from string
 * Food Type - used regex to extract the cuisine into a list, then picked the first one as the dominant cuisine
@@ -40,9 +43,14 @@ Due to chinese characters from the restaurants, the file had to be opened with U
 Below are the highlights from the EDA:
 
 ### These are the dollar sign ratings from UberEats
-![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/dollarsignratings.png "Dollar Sign Ratings")
+![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/dollarsignrating.png "Dollar Sign Ratings")
 
 
 ### Dollar Sign Ratings versus Average Price
 * Excluding outliers, the Dollar Sign suggestions on UberEats do not definitively separate price ranges. With the exception of $$$$ being significantly pricier than the other 3.![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/Dollarsign_vs_AveragePrice.png "Dollar Sign Ratings vs Average Price")
 
+### Reviews vs Ratings
+![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/ReviewCounts_Vs_Ratings.png "Reviews vs Ratings")
+
+### Cuisine Counts
+![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/cuisineCounts.png "Cuisine Counts")
