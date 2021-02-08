@@ -13,6 +13,8 @@
 **Python Version:** 3.9.1
 **Packages:** pandas, numpy, matplotlib, seaborn, selenium, bs4, requests, requests-futures, regex
 
+**Teammates**: [Ryan's GitHub](https://github.com/ryan9411 "Ryan's GitHub") & [Abrahams's GitHub](https://github.com/yatfungleung "Abrahams's GitHub")
+
 ## Web Scraping
 Copied and pasted some code from previous Job scraping projects. The following information was extracted from each restaurant:
 * Name
